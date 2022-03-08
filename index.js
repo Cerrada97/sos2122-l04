@@ -12,7 +12,7 @@ app.get("/faces", (req,res)=>{
     console.log("Requested / route");
     res.send("<html><body><h1>"+cool()+"</h1></body></html>")
 });
-
+/**/ 
 app.get("/time", (req,res)=>{
     console.log("Requested / route");
     res.send("<html><body><h1>"+new Date()+"</h1></body></html>")

@@ -1,5 +1,5 @@
 # Package L04
-This is my first package
+This is my new lab
 
 ## Install
 ```
